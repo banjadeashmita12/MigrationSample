@@ -1,0 +1,3 @@
+I have an Excel file in a folder, and I import that Excel file into my database. After that, I create another table called member_registration in my database where I migrate the data from the Excel file. The script I mentioned above is an example of how I perform this migration.
+
+I follow the same process for other tables as well. Similarly, when I do third-party migrations, I get the client’s database, and then I insert and migrate the data from that client database into our system. I use different queries on the respective tables of the destination database to map and transform the data as needed.
